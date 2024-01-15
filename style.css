@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+
+    list-style: none;
+    font-size: 20px;
+    color: white;
+}
+
+
+a {
+
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+h1,ul,li  {
+    display: inline-block;
+    margin: 10px;
+   
+    
+}
+
+
+div {
+    vertical-align: center;
+    background-color: black;
+}
+
+
+h3 {
+    background-image: url(./rasm1.jpg);
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat
+    
+}   
+
+
+
+
